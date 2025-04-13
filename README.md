@@ -36,5 +36,5 @@ This is a simple **AI voice assistant** built using HTML, CSS, and JavaScript th
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/your-username/ai-assistant.git
-   cd ai-assistant
+   git clone[ https://github.com/your-username/ai-assistant.git
+   cd ai-assistant](https://github.com/ParagSaini07/AI-Assistance)
